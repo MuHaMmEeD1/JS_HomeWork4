@@ -1,0 +1,42 @@
+.changeBtn {
+  padding: 20px;
+}
+
+.cavab {
+  background-color: lightgrey;
+  padding: 10px;
+  padding-left: 20px;
+  font-size: 50px;
+  width: 500px;
+  font-weight: 700;
+}
+
+.clBtn {
+  padding: 30px;
+  font-weight: 700;
+  font-size: 60px;
+}
+
+.clBtns {
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  gap: 10px;
+}
+
+.futboolSahesi {
+  background-color: lightgreen;
+  border: 1px solid darkgreen;
+  height: 200px;
+  width: 200px;
+}
+
+.top {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+
+  margin: 0px 0px 0px 10px;
+}
